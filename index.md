@@ -12,6 +12,8 @@ English version can be found from [here](http://jecqa.thunlp.org/).
 
 **其他邮箱：** zhxzhxzhong@gmail.com, zhonghx18@mails.tsinghua.edu.cn
 
+**QQ:** 616661443
+
 **研究方向：**自然语言处理，法律智能
 
 **就业意愿**：成都，IT
