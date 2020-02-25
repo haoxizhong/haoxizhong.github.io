@@ -1,5 +1,3 @@
-English version can be found from [here](http://jecqa.thunlp.org/).
-
 ### 个人信息
 
 **姓名：** 钟皓曦
@@ -65,6 +63,12 @@ English version can be found from [here](http://jecqa.thunlp.org/).
 * JEC-QA: A Legal-Domain Question Answering Dataset. [[pdf]](https://arxiv.org/pdf/1911.12011.pdf)
 
   Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun
+
+  AAAI 2020
+
+- Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction.
+
+  Haoxi Zhong, Yuzhong Wang, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun 
 
   AAAI 2020
 
