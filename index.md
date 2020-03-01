@@ -66,7 +66,7 @@
 
   AAAI 2020
 
-- Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction.
+- Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhongH.7101.pdf)]
 
   Haoxi Zhong, Yuzhong Wang, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun 
 
