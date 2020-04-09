@@ -71,6 +71,12 @@
   Haoxi Zhong, Yuzhong Wang, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun 
 
   AAAI 2020
+  
+- How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence.
+
+  Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun
+
+  ACL 2020
 
 
 
@@ -87,9 +93,17 @@
 
 
 
+### 社会工作
+
+* 2016年9月-2017年12月，任清华大学计算机系算法与竞赛协会第一任主席
+* 多次参与全国信息学比赛命题，包括NOIP、省选等
+
+
+
 ### 工作/实习经历
 
 * 2015年7月-2015年9月 搜狗，实习，开发ios运动软件
+* 2016年7月-2016年9月 云狸科技有限公司，实习，开发大数据平台
 * 2017年12月-2018年6月 幂律科技有限公司，实习，搭建千万级别法律文书搜索引擎
 
 
