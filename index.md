@@ -117,3 +117,7 @@
 * [Pytorch Worker](https://github.com/haoxizhong/pytorch-worker)
 
   用于快速进行pytorch进行训练的框架，能够很容易适应各种数据和模型的场景。
+  
+* [CAIL 司法人工智能挑战赛](https://github.com/china-ai-law-challenge/)
+
+  参与三年的司法人工智能挑战赛的比赛前端、后端、评测端的搭建和数据收集工作。
